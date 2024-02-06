@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-Warrior-X&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bit-Warrior-X&theme=dark&hide_border=false" alt="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bit-Warrior-X&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats Card">
 </p>
 
 ## 🏆 GitHub Trophies
